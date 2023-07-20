@@ -40,7 +40,7 @@ export default App;
 ```
 ````
 
-#Props
+## Props
 
 The EmojiPicker component accepts the following props:
 
@@ -74,10 +74,10 @@ export default App;
 
 
 
-#Contributing
+## Contributing
 Contributions to the Emoji Picker project are welcome! If you find a bug, have an enhancement in mind, or want to contribute in any way, please feel free to open an issue or submit a pull request.
 
-#License
+## License
 This project is licensed under the MIT License - see the [LICENSE](# https://opensource.org/license/mit/)
 
 
